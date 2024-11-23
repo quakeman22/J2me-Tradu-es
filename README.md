@@ -7,7 +7,8 @@ Pequeno projeto de preservação de jogos J2me Traduzidos
 [Facebook](https://www.facebook.com/profile.php?id=61561667938901)
 [J2meFans](https://discord.com/invite/dwqBTkeTzp)
 
-## Notas
+
+Notas
 Este #Repo possui
   ° Joogos recuperados e preservados
   ° Novas Traduções
