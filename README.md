@@ -5,10 +5,9 @@ Pequeno projeto de preservação de jogos J2me Traduzidos
 [Quakeman](https://www.quakeman.site)
 [Archive.org](https://archive.org/details/j2mebr)
 [Facebook](https://www.facebook.com/profile.php?id=61561667938901)
-Discord [J2meFans](https://discord.com/invite/dwqBTkeTzp)
+[J2meFans](https://discord.com/invite/dwqBTkeTzp)
 
-Sejam todos bem-vindos ao Projeto de Preservação de Jogos Java J2ME. Juntos, vamos garantir que esses tesouros digitais continuem brilhando por muitos anos vindouros!
-
+## Notas
 Este #Repo possui
   ° Joogos recuperados e preservados
   ° Novas Traduções
