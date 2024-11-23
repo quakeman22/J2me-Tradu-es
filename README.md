@@ -1,14 +1,13 @@
 # J2me-Traduzidos
 Pequeno projeto de preservação de jogos J2me Traduzidos
 
-## Meus Links:
+Meus Links:
 [Quakeman](https://www.quakeman.site)
 [Archive.org](https://archive.org/details/j2mebr)
 [Facebook](https://www.facebook.com/profile.php?id=61561667938901)
 [J2meFans](https://discord.com/invite/dwqBTkeTzp)
 
 
-Notas
 Este #Repo possui: 
 
   |  ° Joogos recuperados e preservados  
