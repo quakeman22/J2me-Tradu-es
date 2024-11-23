@@ -9,7 +9,7 @@ Pequeno projeto de preservação de jogos J2me Traduzidos
 
 
 Notas
-Este #Repo possui
-  ° Joogos recuperados e preservados
-  ° Novas Traduções
-  ° Tutoriais (Em breve)
+Este #Repo possui: 
+  |  ° Joogos recuperados e preservados  
+  |  ° Novas Traduções  
+  |  ° Tutoriais (Em breve)
